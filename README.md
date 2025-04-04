@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gauravbhakuni/Rider.git
+   git clone https://github.com/neelam70781/Rider.git
    ```
 2. Install NPM packages
     ```sh
@@ -46,4 +46,4 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 ##Contact
-Project Link: https://github.com/gauravbhakuni/Rider
+Project Link: https://github.com/neelam70781/Rider
